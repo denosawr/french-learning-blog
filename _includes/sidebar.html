@@ -1,0 +1,39 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}" style="line-height:50%">
+          deno<br>sawr
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    </nav>
+    
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="{{ site.url }}{{ site.posts.first.url }}">Recent Posts</a>
+        {% for post in site.posts limit:5 %}
+            <!--"title": "{{ post.title | xml_escape }}",
+            "url": "{{ site.url }}{{ post.url }}",
+            "date": "{{ post.date | date_to_xmlschema }}"{% unless forloop.last %},{% endunless %} -->
+            <a class="sidebar-nav-item recent-posts" href="{{ site.url }}{{ post.url }}">  {{ post.title | xml_escape }}</a>
+        {% endfor %}
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }} denosawr. All rights reserved.</p>
+    <p>Hosted with ❤ by GitHub</p>
+  </div>
+</div>
