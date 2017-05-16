@@ -6,11 +6,11 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            denosawr
-tagline:          'something'
-description:      'a blog where I ramble about all sorts of things.'
-url:              https://denosawr.github.io/blog
-baseurl:          /blog
+title:            french
+tagline:          'study notes'
+description:      'my learnings and test revision for my journey through the French language.'
+url:              https://denosawr.github.io/french-notes
+baseurl:          /french-notes
 
 author:
   name:           'deno'
@@ -22,4 +22,4 @@ paginate:         5
 version:          1
 
 github:
-  repo:           https://github.com/denosawr/denosawr.github.io
+  repo:           https://github.com/denosawr/french-learning
