@@ -10,7 +10,7 @@ title:            french
 tagline:          'study notes'
 description:      'my learnings and test revision for my journey through the French language.'
 url:              https://denosawr.github.io/french-notes
-baseurl:          /french-notes
+baseurl:          /french-notes/
 
 author:
   name:           'deno'
