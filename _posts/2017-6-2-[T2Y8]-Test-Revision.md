@@ -3,7 +3,6 @@ Test revision for the upcoming Term 2 Reading/Writing tests.
 ### Possession
 #### Possessive Adjectives
 Possessive adjectives are adjectives used to show ownership.
-
 | word | m | f | before a vowel | plural |
 | - | - | - | - | ----- |
 | the             | le  | la  | l'  | les |
@@ -11,7 +10,6 @@ Possessive adjectives are adjectives used to show ownership.
 | my              | mon | ma  | mon | mes |
 | your (singular) | ton | ta  | ton | tes |
 | his/her         | son | sa  | son | ses |
-
 Don't forget that French vowels include the letter `h` (i.e. `a, e, i, o, u, h`). The gender of the adjective depends on **the gender of the noun** it describes. For instance, `his eraser` would consist of two words: the possessive adjective for 'his' and the word for 'eraser'. In this case `eraser` is `gomme`, a _feminine_ word, so the French translation would be `sa gomme`. Even though we are talking about _his_ eraser, the gender of the noun the adjective describes (`gomme`) is feminine so we use the feminine version of the word.
 #### Showing possession... without using `'s`
 In English there are two ways to use the apostrophe.
@@ -46,3 +44,19 @@ What good could anything be without some good ol' examples, right?
 	* So, our sentence becomes `the exercise book of your teacher is big`, or `your teacher's exercise book is big`.
 
 Not that hard, is it?
+
+
+### Negatives
+Just like we can say `I do not like the strawberries` to say the negative, or opposite, of `I like the strawberries`, the French can say `Je n'aime pas les fraises` as the negative of `J'aime les fraises`.
+
+#### Non-`avoir` sentences
+So first let's deal with making any **non-`avoir`** sentence negative (`avoir` is special and needs something extra). It's quite easy: **put `ne` `pas` around the verb like this: `ne + <verb> + pas`**. Just don't forget that if the verb begins with a vowel (`a, e, i, o, u, h`) instead of `ne <verb>` we use `n'<verb>`.
+
+So if we have `Vous habitez près de Paris` and want to get the negative, `you do not live near Paris`, we can put `ne` and `pas` around the verb, `habitez` like this: `ne habitez pas`. **BUT WAIT**! We've forgotten something! `habitez` begins with `h`, a vowel, so we cannot use `ne`. We _must_ write this as `n'habitez pas`. This means that our resulting sentence is: `Vous n'habitez pas près de Paris`.
+
+#### `avoir` sentences
+Remember `avoir`, `to have`? That weird, irregular verb which has many forms: `J'ai, tu as, il/elle/on a, nous avons, vous avez, ils/elles ont`? Yeah, that one. It's about to be a lot more confusing (not really).
+
+So, how do we get the negative of `I have an apple`? Logic would tell you that it is `Je n'ai pas une pomme`, but alas, nothing comes that easily. In the negative, we follow `pas` with `de` (or `d'` if the next word has a vowel). As a result, the negative of `j'ai une pomme` is `je n'ai pas de pomme`.
+
+Of course, if you state how many apples you have, you **do not** add `de`. So `J'ai dix pommes` becomes **`Je n'ai pas dix pommes`** instead of `Je n'ai pas de dix pommes` (because `some ten apples` makes so sense). If you write `Je n'ai pas une pomme` you are saying that `I do not have`**` one `**`apple`. You could have two, or three, or $\sum_{n=1}^\infty n$ apples (which, by the way, is equal to $-\frac{1}{12}$). By putting `de` in front of `apple` you are saying `I do not have some apples`, or when properly grammared `I do not have any apples`.
