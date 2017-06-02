@@ -3,6 +3,7 @@ Test revision for the upcoming Term 2 Reading/Writing tests.
 ### Possession
 #### Possessive Adjectives
 Possessive adjectives are adjectives used to show ownership.
+
 | word | m | f | before a vowel | plural |
 | - | - | - | - | ----- |
 | the             | le  | la  | l'  | les |
@@ -10,6 +11,7 @@ Possessive adjectives are adjectives used to show ownership.
 | my              | mon | ma  | mon | mes |
 | your (singular) | ton | ta  | ton | tes |
 | his/her         | son | sa  | son | ses |
+
 Don't forget that French vowels include the letter `h` (i.e. `a, e, i, o, u, h`). The gender of the adjective depends on **the gender of the noun** it describes. For instance, `his eraser` would consist of two words: the possessive adjective for 'his' and the word for 'eraser'. In this case `eraser` is `gomme`, a _feminine_ word, so the French translation would be `sa gomme`. Even though we are talking about _his_ eraser, the gender of the noun the adjective describes (`gomme`) is feminine so we use the feminine version of the word.
 #### Showing possession... without using `'s`
 In English there are two ways to use the apostrophe.
