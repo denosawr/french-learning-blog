@@ -62,3 +62,11 @@ Remember `avoir`, `to have`? That weird, irregular verb which has many forms: `J
 So, how do we get the negative of `I have an apple`? Logic would tell you that it is `Je n'ai pas une pomme`, but alas, nothing comes that easily. In the negative, we follow `pas` with `de` (or `d'` if the next word has a vowel). As a result, the negative of `j'ai une pomme` is `je n'ai pas de pomme`.
 
 Of course, if you state how many apples you have, you **do not** add `de`. So `J'ai dix pommes` becomes **`Je n'ai pas dix pommes`** instead of `Je n'ai pas de dix pommes` (because `some ten apples` makes so sense). If you write `Je n'ai pas une pomme` you are saying that `I do not have`**` one `**`apple`. You could have two, or three, or $\sum_{n=1}^\infty n$ apples (which, by the way, is equal to $-\frac{1}{12}$). By putting `de` in front of `apple` you are saying `I do not have some apples`, or when properly grammared `I do not have any apples`.
+
+### Asking a question
+There are two major ways to ask a question in French. The first is fairly simple: put a question mark on the end! For instance, to say "I eat an apple" I can write`vous mangez une pomme.` So, if I wanted to ask "you are eating an apple?" I can write `Vous mangez une pomme?`.
+
+The second is slightly more advanced. We use the magic phrase: `est-ce que`! Just like we rebuild sentences to be questions with `do` (like in 'do you have a sandwich?') the French rebuild sentences around `est-ce que`. It's pretty simple: `<question word> + `**`est-ce que`**` + <subject> + <verb> + <other words>`. Our previous question becomes `Est-ce que vous mangez une pomme?` which means `Do you eat an apple?` or `Are you eating an apple?`.
+
+#### The second magic phrase
+The 'second magic phrase' is `Qu'est-ce que c'est`, pronounced `keh-st ke say`. It means 'what is it'. Pretty simple. To reply, use `c'est`, the French phrase for `it is`, like this: `c'est une gomme` means `it is an eraser`.
